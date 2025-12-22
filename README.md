@@ -8,6 +8,8 @@
 
 ***
 
+Done
+
 ## [Задание](https://github.com/geminishkv/course_labs/blob/develop/labs/lab02/README.md)
 
 - [x] 1. Выведите на терминале и проанализируйте следующие команды консоли
